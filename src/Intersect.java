@@ -31,6 +31,8 @@ public class Intersect {
 
         return rs;
     }
+    /**拉拉
+    */
     public int[] intersectSort(int[] nums1, int[] nums2){
         Arrays.sort(nums1);
         Arrays.sort(nums2);
