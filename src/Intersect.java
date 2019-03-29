@@ -31,8 +31,12 @@ public class Intersect {
 
         return rs;
     }
-    /**拉拉
-    */
+    /**
+     * 经过排序后的优化算法,还有内存不足的提示还没有尝试,准备星期六尝试
+     * @param nums1
+     * @param nums2
+     * @return
+     */
     public int[] intersectSort(int[] nums1, int[] nums2){
         Arrays.sort(nums1);
         Arrays.sort(nums2);
