@@ -1,3 +1,5 @@
+package easyAraays;
+
 /**
  * @Designation:
  * @Author: Ylz

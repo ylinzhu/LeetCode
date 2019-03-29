@@ -1,3 +1,5 @@
+package easyAraays;
+
 /**
  * @Designation:数组去重
  * @Author: Ylz

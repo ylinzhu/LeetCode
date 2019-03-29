@@ -1,3 +1,5 @@
+package easyAraays;
+
 import java.util.*;
 
 /**
