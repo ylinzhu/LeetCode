@@ -1,4 +1,4 @@
-package easyAraays;
+package easyaraays;
 
 /**
  * @Designation:数组去重

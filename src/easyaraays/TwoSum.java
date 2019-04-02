@@ -1,4 +1,4 @@
-package easyAraays;
+package easyaraays;
 
 import java.util.Arrays;
 import java.util.HashMap;

@@ -1,4 +1,4 @@
-package easyAraays;
+package easyaraays;
 
 /**
  * @Designation:
@@ -10,15 +10,7 @@ public class RotateImage {
     public static void rotate(int[][] matrix) {
             int len =matrix.length;
             int lenth=len-1;
-        /**
-         * 1  2  3
-         * 4  5  6
-         * 7  8  9
-         *
-         * 7  4  1
-         * 8  5  2
-         * 9  6  3
-         */
+
         int start =0;
         while (start*2<lenth){
             for (int i = 0; i < len-i; i++) {
