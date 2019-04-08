@@ -1,7 +1,7 @@
 package easystring;
 
 /**
- * @Designation:
+ * @Designation:注意的点很多,题很简单
  * @Author: Ylz
  * @Date: 2019/4/4
  * @Version: 1.0
@@ -59,9 +59,5 @@ public class MyAtoi {
         return (int) (rs=flag==true?rs:-rs);
     }
 
-    public static void main(String[] args) {
-        String str =" 123-";
-        System.out.println(Integer.MAX_VALUE);
-        System.out.println(myAtoi(str));
-    }
+
 }
