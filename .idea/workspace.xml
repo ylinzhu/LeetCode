@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bff50fa-c5c2-41f5-ba14-c94bcaa57fc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/easystring/CountAndSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easystring/LongestCommonPrefix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/StrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easystring/StrStr.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,20 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Reverse.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easystring/Reverse.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+            <state relative-caret-position="200">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -87,23 +77,25 @@
       <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="25">
-              <caret line="1751" column="7" selection-start-line="1751" selection-start-column="7" selection-end-line="1751" selection-end-column="7" />
+            <state relative-caret-position="-72">
+              <caret line="2385" column="6" lean-forward="true" selection-start-line="2385" selection-start-column="6" selection-end-line="2385" selection-end-column="6" />
               <folding>
                 <element signature="e#58481#58482#0" expanded="true" />
                 <element signature="e#58518#58519#0" expanded="true" />
                 <element signature="e#66457#66458#0" expanded="true" />
                 <element signature="e#66495#66496#0" expanded="true" />
+                <element signature="e#94598#94599#0" expanded="true" />
+                <element signature="e#94636#94637#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CountAndSay.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CountAndSay.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/easystring/CountAndSay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            <state relative-caret-position="50">
+              <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -111,8 +103,17 @@
       <file leaf-file-name="StrStr.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/easystring/StrStr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="95">
+              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LongestCommonPrefix.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/easystring/LongestCommonPrefix.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="309">
+              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -150,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/easystring/MyAtoi.java" />
         <option value="$PROJECT_DIR$/src/easystring/StrStr.java" />
         <option value="$PROJECT_DIR$/src/easystring/CountAndSay.java" />
+        <option value="$PROJECT_DIR$/src/easystring/LongestCommonPrefix.java" />
       </list>
     </option>
   </component>
@@ -222,7 +224,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CountAndSay">
+  <component name="RunManager" selected="Application.LongestCommonPrefix">
     <configuration name="CountAndSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easystring.CountAndSay" />
       <module name="LeetCode" />
@@ -243,8 +245,8 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="MyAtoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easystring.MyAtoi" />
+    <configuration name="LongestCommonPrefix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easystring.LongestCommonPrefix" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -253,12 +255,12 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="RotateImage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easyAraays.RotateImage" />
+    <configuration name="MyAtoi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easystring.MyAtoi" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easyAraays.*" />
+          <option name="PATTERN" value="easystring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -274,19 +276,19 @@
       </extension>
     </configuration>
     <list>
-      <item itemvalue="Application.RotateImage" />
       <item itemvalue="Application.IsAnagram" />
       <item itemvalue="Application.MyAtoi" />
       <item itemvalue="Application.StrStr" />
       <item itemvalue="Application.CountAndSay" />
+      <item itemvalue="Application.LongestCommonPrefix" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LongestCommonPrefix" />
         <item itemvalue="Application.CountAndSay" />
         <item itemvalue="Application.StrStr" />
         <item itemvalue="Application.MyAtoi" />
         <item itemvalue="Application.IsAnagram" />
-        <item itemvalue="Application.RotateImage" />
       </list>
     </recent_temporary>
   </component>
@@ -306,7 +308,7 @@
       <workItem from="1553928769151" duration="7085000" />
       <workItem from="1554128509573" duration="678000" />
       <workItem from="1554129220036" duration="124000" />
-      <workItem from="1554818762439" duration="2227000" />
+      <workItem from="1554818762439" duration="4169000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1554256309373</created>
@@ -333,7 +335,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21756000" />
+    <option name="totallyTimeSpent" value="23698000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -366,9 +368,9 @@
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49946696" weight="0.33333334" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.42817295" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49733475" weight="0.32962137" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.16997167" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.42817295" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49733475" visible="true" weight="0.35983264" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.16997167" />
       <window_info anchor="bottom" id="Run with VisualVM" order="8" />
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info id="Favorites" order="5" sideWeight="0.5011136" side_tool="true" weight="0.1673774" />
@@ -438,7 +440,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/easystring/CountAndSay.java</url>
-          <line>50</line>
+          <line>48</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
@@ -447,7 +449,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Rotate.java" />
     <entry file="file://$PROJECT_DIR$/src/removeDuplicates.java" />
     <entry file="file://$PROJECT_DIR$/src/MoveZeroes.java" />
     <entry file="file://$PROJECT_DIR$/src/MaxProfit.java" />
@@ -681,8 +682,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="29" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
+        <state relative-caret-position="200">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -719,30 +720,39 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/src/easystring/CountAndSay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="25">
-          <caret line="1751" column="7" selection-start-line="1751" selection-start-column="7" selection-end-line="1751" selection-end-column="7" />
-          <folding>
-            <element signature="e#58481#58482#0" expanded="true" />
-            <element signature="e#58518#58519#0" expanded="true" />
-            <element signature="e#66457#66458#0" expanded="true" />
-            <element signature="e#66495#66496#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="50">
+          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/easystring/StrStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="95">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/easystring/CountAndSay.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        <state relative-caret-position="-72">
+          <caret line="2385" column="6" lean-forward="true" selection-start-line="2385" selection-start-column="6" selection-end-line="2385" selection-end-column="6" />
+          <folding>
+            <element signature="e#58481#58482#0" expanded="true" />
+            <element signature="e#58518#58519#0" expanded="true" />
+            <element signature="e#66457#66458#0" expanded="true" />
+            <element signature="e#66495#66496#0" expanded="true" />
+            <element signature="e#94598#94599#0" expanded="true" />
+            <element signature="e#94636#94637#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easystring/LongestCommonPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
         </state>
       </provider>
     </entry>
