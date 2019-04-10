@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2bff50fa-c5c2-41f5-ba14-c94bcaa57fc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/easystring/LongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easyLinkedList/RemoveNthFromEnd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -15,15 +15,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="5" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RotateImage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/easyaraays/RotateImage.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -36,8 +27,8 @@
       <file leaf-file-name="workspace.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            <state relative-caret-position="275">
+              <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -77,16 +68,8 @@
       <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
         <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-72">
-              <caret line="2385" column="6" lean-forward="true" selection-start-line="2385" selection-start-column="6" selection-end-line="2385" selection-end-column="6" />
-              <folding>
-                <element signature="e#58481#58482#0" expanded="true" />
-                <element signature="e#58518#58519#0" expanded="true" />
-                <element signature="e#66457#66458#0" expanded="true" />
-                <element signature="e#66495#66496#0" expanded="true" />
-                <element signature="e#94598#94599#0" expanded="true" />
-                <element signature="e#94636#94637#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="59625">
+              <caret line="2385" column="6" selection-start-line="2385" selection-start-column="6" selection-end-line="2385" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -94,8 +77,8 @@
       <file leaf-file-name="CountAndSay.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/easystring/CountAndSay.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+            <state relative-caret-position="725">
+              <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -103,17 +86,26 @@
       <file leaf-file-name="StrStr.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/easystring/StrStr.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
+            <state relative-caret-position="300">
               <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="LongestCommonPrefix.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="LongestCommonPrefix.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/easystring/LongestCommonPrefix.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="309">
-              <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+            <state relative-caret-position="400">
+              <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoveNthFromEnd.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/easyLinkedList/RemoveNthFromEnd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="178">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="17" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -152,6 +144,7 @@
         <option value="$PROJECT_DIR$/src/easystring/StrStr.java" />
         <option value="$PROJECT_DIR$/src/easystring/CountAndSay.java" />
         <option value="$PROJECT_DIR$/src/easystring/LongestCommonPrefix.java" />
+        <option value="$PROJECT_DIR$/src/easyLinkedList/RemoveNthFromEnd.java" />
       </list>
     </option>
   </component>
@@ -164,10 +157,10 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="160" />
     <option name="y" value="110" />
-    <option name="width" value="1944" />
+    <option name="width" value="1945" />
     <option name="height" value="1045" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -178,7 +171,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -195,14 +189,13 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="easystring" type="462c0819:PsiDirectoryNode" />
+              <item name="easyLinkedList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -308,7 +301,8 @@
       <workItem from="1553928769151" duration="7085000" />
       <workItem from="1554128509573" duration="678000" />
       <workItem from="1554129220036" duration="124000" />
-      <workItem from="1554818762439" duration="4169000" />
+      <workItem from="1554818762439" duration="4696000" />
+      <workItem from="1554907998615" duration="2453000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1554256309373</created>
@@ -335,7 +329,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23698000" />
+    <option name="totallyTimeSpent" value="26678000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -347,34 +341,33 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1470" height="878" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1470" height="878" extended-state="7" />
     <layout>
       <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32914925" />
+      <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5026652" side_tool="true" weight="0.36636972" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49946696" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.42817295" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49733475" weight="0.35983264" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988864" weight="0.17209631" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="8" />
       <window_info anchor="right" id="Database" order="8" />
       <window_info id="Structure" order="1" sideWeight="0.5011136" side_tool="true" weight="0.1673774" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.46025103" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49787536" weight="0.32775453" />
-      <window_info anchor="right" id="Palette&#9;" order="9" />
-      <window_info id="Image Layers" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49946696" weight="0.33333334" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49946696" weight="0.42817295" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49733475" visible="true" weight="0.35983264" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.16997167" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="8" />
       <window_info anchor="right" id="Theme Preview" order="10" />
       <window_info id="Favorites" order="5" sideWeight="0.5011136" side_tool="true" weight="0.1673774" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.46025103" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="9" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49787536" weight="0.32775453" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Key Promoter X" order="7" />
@@ -449,7 +442,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/removeDuplicates.java" />
     <entry file="file://$PROJECT_DIR$/src/MoveZeroes.java" />
     <entry file="file://$PROJECT_DIR$/src/MaxProfit.java" />
     <entry file="file://$PROJECT_DIR$/src/Intersect.java" />
@@ -682,8 +674,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        <state relative-caret-position="275">
+          <caret line="11" column="29" selection-start-line="11" selection-start-column="29" selection-end-line="11" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -722,37 +714,36 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/easystring/CountAndSay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+        <state relative-caret-position="725">
+          <caret line="29" column="40" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/easystring/StrStr.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
+        <state relative-caret-position="300">
           <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-72">
-          <caret line="2385" column="6" lean-forward="true" selection-start-line="2385" selection-start-column="6" selection-end-line="2385" selection-end-column="6" />
-          <folding>
-            <element signature="e#58481#58482#0" expanded="true" />
-            <element signature="e#58518#58519#0" expanded="true" />
-            <element signature="e#66457#66458#0" expanded="true" />
-            <element signature="e#66495#66496#0" expanded="true" />
-            <element signature="e#94598#94599#0" expanded="true" />
-            <element signature="e#94636#94637#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="59625">
+          <caret line="2385" column="6" selection-start-line="2385" selection-start-column="6" selection-end-line="2385" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/easystring/LongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="309">
-          <caret line="21" column="23" lean-forward="true" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="23" />
+        <state relative-caret-position="400">
+          <caret line="16" column="24" lean-forward="true" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easyLinkedList/RemoveNthFromEnd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="178">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="17" selection-end-column="29" />
         </state>
       </provider>
     </entry>
