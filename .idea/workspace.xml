@@ -8,46 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bff50fa-c5c2-41f5-ba14-c94bcaa57fc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/easy/easyDesign/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easyDesign/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easyDynamicProgramming/Rob.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyDynamicProgramming/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyDynamicProgramming/ClimbStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyDynamicProgramming/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyDynamicProgramming/MaxProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyDynamicProgramming/MaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyDynamicProgramming/MaxSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyLinkedList/DeleteNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyLinkedList/DeleteNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyLinkedList/HasCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyLinkedList/HasCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyLinkedList/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyLinkedList/IsPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyLinkedList/MergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyLinkedList/MergeTwoLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyLinkedList/RemoveNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyLinkedList/RemoveNthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyLinkedList/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyLinkedList/ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easySortandSearch/FirstBadVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easySortandSearch/FirstBadVersion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easySortandSearch/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easySortandSearch/Merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyTrees/IsSymmetric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyTrees/IsSymmetric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyTrees/IsValidBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyTrees/IsValidBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyTrees/LevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyTrees/LevelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyTrees/MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyTrees/MaxDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyTrees/SortedArrayToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyTrees/SortedArrayToBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/Intersect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/Intersect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/IsValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/IsValidSudoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/MaxProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/MoveZeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/PlusOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/Rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/Rotate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/RotateImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/removeDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/removeDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/CountAndSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/CountAndSay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/FirstUniqChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/FirstUniqChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/IsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/IsAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/IsPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/MyAtoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/MyAtoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/StrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/StrStr.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/easyDynamicProgramming/MaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyDynamicProgramming/MaxSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/easy/easyTrees/IsValidBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyTrees/IsValidBST.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,96 +24,33 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/easystring/StrStr.java">
+      <file leaf-file-name="Rob.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/easyDynamicProgramming/Rob.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+            <state relative-caret-position="525">
+              <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/easyTrees/SortedArrayToBST.java">
+      <file leaf-file-name="D.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/D.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="334">
+              <caret line="34" column="9" lean-forward="true" selection-start-line="11" selection-start-column="6" selection-end-line="34" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/easy/easyDesign/Solution.java">
+      <file leaf-file-name="Math.java" pinned="false" current-in-tab="false">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/Math.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="29550">
+              <caret line="1250" column="22" selection-start-line="1250" selection-start-column="22" selection-end-line="1250" selection-end-column="22" />
               <folding>
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#49043#49044#0" expanded="true" />
+                <element signature="e#49082#49083#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Random.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/easyDesign/MinStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/easySortandSearch/Merge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/easystring/IsAnagram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="37" selection-start-line="9" selection-start-column="42" selection-end-line="10" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/easystring/LongestCommonPrefix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" column="16" selection-start-line="18" selection-start-column="16" selection-end-line="18" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/easySortandSearch/FirstBadVersion.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="475">
-              <caret line="19" column="38" selection-start-line="19" selection-start-column="38" selection-end-line="19" selection-end-column="38" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/easyDynamicProgramming/MaxSubArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -200,14 +106,24 @@
         <option value="$PROJECT_DIR$/src/easyDynamicProgramming/MaxSubArray.java" />
         <option value="$PROJECT_DIR$/src/easy/easyTrees/SortedArrayToBST.java" />
         <option value="$PROJECT_DIR$/src/easy/easyDesign/Solution.java" />
+        <option value="$PROJECT_DIR$/src/D.java" />
       </list>
     </option>
   </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="554" />
-    <option name="y" value="144" />
-    <option name="width" value="853" />
-    <option name="height" value="457" />
+    <option name="x" value="552" />
+    <option name="y" value="142" />
+    <option name="width" value="855" />
+    <option name="height" value="459" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -217,8 +133,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -230,19 +147,6 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="easyDesign" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -280,9 +184,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="FirstBadVersion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.easySortandSearch.FirstBadVersion" />
@@ -293,9 +194,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.easyLinkedList.IsPalindrome" />
@@ -306,9 +204,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="IsValidBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.easyTrees.IsValidBST" />
@@ -319,9 +214,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.easySortandSearch.Merge" />
@@ -332,9 +224,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
     </configuration>
     <list>
       <item itemvalue="Application.IsPalindrome" />
@@ -374,6 +263,8 @@
       <workItem from="1554910654341" duration="264000" />
       <workItem from="1554993029923" duration="4677000" />
       <workItem from="1555386685568" duration="1904000" />
+      <workItem from="1555849589108" duration="599000" />
+      <workItem from="1556114662384" duration="3944000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1554256309373</created>
@@ -400,7 +291,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72615000" />
+    <option name="totallyTimeSpent" value="77172000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -412,44 +303,44 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="-7" width="1470" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.195629" />
-      <window_info id="Structure" order="1" sideWeight="0.5011136" side_tool="true" weight="0.1673774" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Favorites" order="5" sideWeight="0.5011136" side_tool="true" weight="0.1673774" />
-      <window_info id="Capture Tool" order="6" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" weight="0.42761692" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840087" weight="0.48663697" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Palette" order="5" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32914925" />
-      <window_info anchor="bottom" id="Run with VisualVM" order="8" />
-      <window_info anchor="bottom" id="Debug with VisualVM" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49626866" weight="0.32962137" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5026652" side_tool="true" weight="0.42761692" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4968017" weight="0.32739422" />
-      <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49840087" visible="true" weight="0.32516703" />
-      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Inspection Results" order="16" sideWeight="0.49946696" weight="0.32962137" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="right" id="Maven" order="4" />
-      <window_info anchor="right" id="Palette" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Key Promoter X" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
       <window_info anchor="right" id="Palette&#9;" order="9" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5026652" side_tool="true" weight="0.42761692" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49840087" visible="true" weight="0.32496512" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49733475" weight="0.42761692" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49626866" weight="0.32962137" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.20113315" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="8" />
+      <window_info anchor="right" id="Database" order="8" />
+      <window_info id="Structure" order="1" sideWeight="0.5011136" side_tool="true" weight="0.1673774" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info id="Favorites" order="5" sideWeight="0.5011136" side_tool="true" weight="0.1673774" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49840087" weight="0.48663697" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="9" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4968017" weight="0.32739422" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Key Promoter X" order="7" />
+      <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Inspection Results" order="16" sideWeight="0.49946696" weight="0.32962137" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -480,20 +371,9 @@
         </entry>
       </map>
     </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="Branch">
-          <value>
-            <list />
-          </value>
-        </entry>
-        <entry key="User">
-          <value>
-            <list />
-          </value>
-        </entry>
-      </map>
-    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="s" />
@@ -699,10 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="199">
           <caret line="14" selection-start-line="14" selection-end-line="15" />
-          <folding>
-            <element signature="e#288#289#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -710,9 +586,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="124">
           <caret line="26" column="23" selection-start-line="26" selection-start-column="23" selection-end-line="26" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -723,57 +596,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/AbstractList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="232" column="16" selection-start-line="232" selection-start-column="16" selection-end-line="232" selection-end-column="16" />
-          <folding>
-            <element signature="e#7627#7628#0" expanded="true" />
-            <element signature="e#7665#7666#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/javafx-src.zip!/com/sun/javafx/scene/control/skin/VirtualFlow.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="2796" column="20" selection-start-line="2796" selection-start-column="20" selection-end-line="2796" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="191">
-          <caret line="556" column="16" selection-start-line="556" selection-start-column="16" selection-end-line="556" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="120" column="8" selection-start-line="120" selection-start-column="8" selection-end-line="120" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-567">
-          <caret line="86" column="27" lean-forward="true" selection-start-line="86" selection-start-column="27" selection-end-line="86" selection-end-column="27" />
-          <folding>
-            <element signature="e#8938#8939#0" expanded="true" />
-            <element signature="e#8965#8966#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/AbstractList.java" />
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/javafx-src.zip!/com/sun/javafx/scene/control/skin/VirtualFlow.java" />
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java" />
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java" />
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedList.java" />
     <entry file="file://$PROJECT_DIR$/src/easy/easyTrees/LevelOrder.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
           <caret line="20" column="5" selection-start-line="12" selection-start-column="2" selection-end-line="20" selection-end-column="5" />
-          <folding>
-            <element signature="e#263#264#0" expanded="true" />
-            <element signature="e#294#295#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -781,10 +612,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="389">
           <caret line="24" column="18" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="24" selection-end-column="18" />
-          <folding>
-            <element signature="e#505#506#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -799,9 +626,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="325">
           <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-          <folding>
-            <element signature="method#isPalindrome#0;class#IsPalindrome#0" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -875,21 +699,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Random.java" />
     <entry file="file://$PROJECT_DIR$/src/easy/easyDesign/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="431">
           <caret line="35" column="5" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>

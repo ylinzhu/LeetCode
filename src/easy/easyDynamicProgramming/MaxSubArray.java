@@ -7,16 +7,16 @@ package easy.easyDynamicProgramming;
  * @Version: 1.0
  */
 public class MaxSubArray {
-    int max =Integer.MIN_VALUE;
-    int Max =0;
+
+
     public int maxSubArray(int[] nums) {
-        for (int num : nums) {
-             max = Math.max(max,num);
+        int max =nums[0];
+        int Max =nums[0];
 
-
+        for (int i = 1; i < nums.length; i++) {
+            max = Math.max(max+nums[i],nums[i]);
+            Max = Math.max(Max,max);
         }
-        if (max<=0)
-            return max;
         return Max;
     }
 }
