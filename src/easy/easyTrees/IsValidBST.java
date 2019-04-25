@@ -1,5 +1,8 @@
 package easy.easyTrees;
 
+import java.util.Stack;
+import java.util.WeakHashMap;
+
 /**
  * @Designation:
  * @Author: Ylz
@@ -12,31 +15,46 @@ public class IsValidBST {
         int val;
         TreeNode left;
         TreeNode right;
-        TreeNode(int x) { val = x; }
-    }
 
-    public static boolean isLeft(TreeNode root,int k){
-        if(root.left == null&&root.right == null)
-            return true;
-        if (root.left.val>=k||root.right.val>=k)
-            return false;
-        if (root.left == null)
-            return root.val>=root.right.val||(root.right.val<=k)?false:isLeft(root.right,k);
-        else if (root.right == null)
-            return root.val<=root.left.val?false:isLeft(root.left,k);
-
-        if (root.val<=root.left.val|| root.val>=root.right.val){
-            return false;
+        TreeNode(int x) {
+            val = x;
         }
-        return isLeft(root.left,k)&&isLeft(root.right,k);
+    }
+
+    public static boolean isValidBST(TreeNode root, double low ,double hi) {
+           if (root == null)
+               return true;
+           if (root.val <= low||root.val >= hi)
+               return false;
+        return    isValidBST(root.left,low,root.val)&&isValidBST(root.right,root.val,hi);
 
     }
 
-   /* public boolean isValidBST(TreeNode root) {
+    public static boolean isValidBSTTwo(TreeNode root) {
+        if (root == null||(root.left == null && root.right == null))
+            return true;
+        return isValidBST(root ,Double.NEGATIVE_INFINITY,Double.POSITIVE_INFINITY);
+
+    }
+
+        //栈的思想
+    public boolean isValidBST(TreeNode root) {
         if (root == null)
             return true;
-        return isLeft(root.left,k)&&(root.right,k);
+        Stack<TreeNode> stack = new Stack<>();
+        TreeNode pre = null;
+        while (root != null || !stack.isEmpty()){
+            while (root != null){
+                stack.push(root);
+                root = root.left;
+            }
+            root = stack.pop();
+            if (pre !=null&& root.val<=pre.val)
+                return false;
+            pre =root;
+            root = root.right;
+        }
+        return true;
 
-
-    }*/
+    }
 }
