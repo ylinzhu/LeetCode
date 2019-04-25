@@ -8,43 +8,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bff50fa-c5c2-41f5-ba14-c94bcaa57fc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/easy/easyDesign/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/easy/easyDesign/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easyMath/CountPrimes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easyMath/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easyother/HammingDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/easy/easyother/Num1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/arrayAndString/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/d.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyDynamicProgramming/ClimbStairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyDynamicProgramming/ClimbStairs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyDynamicProgramming/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyDynamicProgramming/MaxProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyDynamicProgramming/MaxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyDynamicProgramming/MaxSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyLinkedList/DeleteNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyLinkedList/DeleteNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyLinkedList/HasCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyLinkedList/HasCycle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyLinkedList/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyLinkedList/IsPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyLinkedList/MergeTwoLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyLinkedList/MergeTwoLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyLinkedList/RemoveNthFromEnd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyLinkedList/RemoveNthFromEnd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyLinkedList/ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyLinkedList/ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easySortandSearch/FirstBadVersion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easySortandSearch/FirstBadVersion.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easySortandSearch/Merge.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easySortandSearch/Merge.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyTrees/IsSymmetric.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyTrees/IsSymmetric.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyTrees/IsValidBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyTrees/IsValidBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyTrees/LevelOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyTrees/LevelOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyTrees/MaxDepth.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyTrees/MaxDepth.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyTrees/SortedArrayToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyTrees/SortedArrayToBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/Intersect.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/Intersect.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/IsValidSudoku.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/IsValidSudoku.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/MaxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/MaxProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/MoveZeroes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/MoveZeroes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/PlusOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/PlusOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/Rotate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/Rotate.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/RotateImage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/RotateImage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyaraays/removeDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyaraays/removeDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/CountAndSay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/CountAndSay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/FirstUniqChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/FirstUniqChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/IsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/IsAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/IsPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/LongestCommonPrefix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/LongestCommonPrefix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/MyAtoi.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/MyAtoi.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/Reverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/Reverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easystring/StrStr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easystring/StrStr.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -56,32 +26,50 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/easystring/StrStr.java">
+        <entry file="file://$PROJECT_DIR$/src/medium/d.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/easyTrees/SortedArrayToBST.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="257">
-              <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+            <state relative-caret-position="200">
+              <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/easy/easyDesign/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/medium/arrayAndString/ThreeSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="431">
-              <caret line="35" column="5" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="35" selection-end-column="5" />
+            <state relative-caret-position="298">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
               <folding>
-                <element signature="e#439#440#0" expanded="true" />
-                <element signature="e#470#471#0" expanded="true" />
+                <element signature="e#5027#5028#0" expanded="true" />
+                <element signature="e#5098#5099#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/DualPivotQuicksort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-718">
+              <caret line="278" column="50" selection-start-line="278" selection-start-column="50" selection-end-line="278" selection-end-column="50" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/easy/easyother/Num1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -89,7 +77,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Random.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
+            <state relative-caret-position="8650">
               <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
             </state>
           </provider>
@@ -100,24 +88,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="200">
               <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/easySortandSearch/Merge.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="18" selection-start-line="18" selection-end-line="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/easy/easystring/IsAnagram.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="10" column="37" selection-start-line="9" selection-start-column="42" selection-end-line="10" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -200,20 +170,25 @@
         <option value="$PROJECT_DIR$/src/easyDynamicProgramming/MaxSubArray.java" />
         <option value="$PROJECT_DIR$/src/easy/easyTrees/SortedArrayToBST.java" />
         <option value="$PROJECT_DIR$/src/easy/easyDesign/Solution.java" />
+        <option value="$PROJECT_DIR$/src/easy/easyMath/FizzBuzz.java" />
+        <option value="$PROJECT_DIR$/src/easy/easyother/Num1.java" />
+        <option value="$PROJECT_DIR$/src/easy/easyMath/CountPrimes.java" />
+        <option value="$PROJECT_DIR$/src/easy/easyother/HammingDistance.java" />
+        <option value="$PROJECT_DIR$/src/medium/arrayAndString/ThreeSum.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="554" />
-    <option name="y" value="144" />
-    <option name="width" value="853" />
-    <option name="height" value="457" />
+    <option name="x" value="-7" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -231,19 +206,6 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="easy" type="462c0819:PsiDirectoryNode" />
-              <item name="easyDesign" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -254,7 +216,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/.idea/workspace.xml" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555414677173" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556106141700" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../work" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -270,13 +232,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ClimbStairs">
+  <component name="RunManager" selected="Application.HammingDistance">
     <configuration name="ClimbStairs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="easy.easyDynamicProgramming.ClimbStairs" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="easy.easyDynamicProgramming.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CountPrimes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.easyMath.CountPrimes" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="easy.easyMath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,25 +272,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.easyLinkedList.IsPalindrome" />
+    <configuration name="HammingDistance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="easy.easyother.HammingDistance" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="easy.easyLinkedList.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IsValidBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="easy.easyTrees.IsValidBST" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="easy.easyTrees.*" />
+          <option name="PATTERN" value="easy.easyother.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -337,19 +299,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.IsPalindrome" />
-      <item itemvalue="Application.IsValidBST" />
       <item itemvalue="Application.Merge" />
       <item itemvalue="Application.FirstBadVersion" />
       <item itemvalue="Application.ClimbStairs" />
+      <item itemvalue="Application.CountPrimes" />
+      <item itemvalue="Application.HammingDistance" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HammingDistance" />
+        <item itemvalue="Application.CountPrimes" />
         <item itemvalue="Application.ClimbStairs" />
         <item itemvalue="Application.FirstBadVersion" />
         <item itemvalue="Application.Merge" />
-        <item itemvalue="Application.IsValidBST" />
-        <item itemvalue="Application.IsPalindrome" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +335,10 @@
       <workItem from="1554907998615" duration="2453000" />
       <workItem from="1554910654341" duration="264000" />
       <workItem from="1554993029923" duration="4677000" />
-      <workItem from="1555386685568" duration="1904000" />
+      <workItem from="1555386685568" duration="6583000" />
+      <workItem from="1555479928381" duration="6922000" />
+      <workItem from="1555983590008" duration="1665000" />
+      <workItem from="1556069336236" duration="2938000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1554256309373</created>
@@ -396,11 +361,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554724448342</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="design">
+      <created>1555414784686</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1555414784686</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72615000" />
+    <option name="totallyTimeSpent" value="88819000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -413,9 +385,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.195629" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.18123667" />
       <window_info id="Structure" order="1" sideWeight="0.5011136" side_tool="true" weight="0.1673774" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -436,7 +407,7 @@
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5026652" side_tool="true" weight="0.42761692" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4968017" weight="0.32739422" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
-      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49840087" visible="true" weight="0.32516703" />
+      <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.49840087" weight="0.32516703" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
       <window_info anchor="bottom" id="Inspection Results" order="16" sideWeight="0.49946696" weight="0.32962137" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -498,7 +469,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="s" />
     <MESSAGE value="myAtoi" />
-    <option name="LAST_COMMIT_MESSAGE" value="myAtoi" />
+    <MESSAGE value="design" />
+    <option name="LAST_COMMIT_MESSAGE" value="design" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -543,50 +515,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/Intersect.java" />
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_152/src.zip!/java/util/Set.java" />
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_152/src.zip!/java/util/HashMap.java" />
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_152/src.zip!/java/util/HashSet.java" />
-    <entry file="file://$PROJECT_DIR$/src/easy/easyaraays/removeDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/easyaraays/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-250">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="docComment;method#twoSums#0;class#TwoSum#0" />
-            <element signature="method#twoSums#0;class#TwoSum#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/easyaraays/MaxProfit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="5" column="19" lean-forward="true" selection-start-line="5" selection-start-column="19" selection-end-line="5" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/easystring/ReverseString.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/easyaraays/Intersect.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/easy/easystring/FirstUniqChar.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="250">
@@ -840,6 +768,87 @@
         </state>
       </provider>
     </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/lang/Integer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="302" column="26" selection-start-line="302" selection-start-column="26" selection-end-line="302" selection-end-column="26" />
+          <folding>
+            <element signature="e#10902#10903#0" expanded="true" />
+            <element signature="e#10948#10949#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/easyTrees/SortedArrayToBST.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/easyDesign/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="25" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding>
+            <element signature="e#439#440#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/easyMath/FizzBuzz.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="18" selection-start-line="18" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/easyMath/CountPrimes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/easyother/HammingDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/d.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="14" selection-start-line="8" selection-start-column="14" selection-end-line="8" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/easyother/Num1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Random.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8650">
+          <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/easy/easyDesign/MinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/easy/easystring/LongestCommonPrefix.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -861,35 +870,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/easyTrees/SortedArrayToBST.java">
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="257">
-          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/easyDesign/MinStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Random.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="385" column="15" selection-start-line="385" selection-start-column="15" selection-end-line="385" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/easyDesign/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="35" column="5" lean-forward="true" selection-start-line="11" selection-start-column="3" selection-end-line="35" selection-end-column="5" />
+        <state relative-caret-position="315">
+          <caret line="143" column="29" selection-start-line="143" selection-start-column="29" selection-end-line="143" selection-end-column="29" />
           <folding>
-            <element signature="e#439#440#0" expanded="true" />
-            <element signature="e#470#471#0" expanded="true" />
+            <element signature="e#5027#5028#0" expanded="true" />
+            <element signature="e#5098#5099#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/DualPivotQuicksort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-718">
+          <caret line="278" column="50" selection-start-line="278" selection-start-column="50" selection-end-line="278" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/arrayAndString/ThreeSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
         </state>
       </provider>
     </entry>
