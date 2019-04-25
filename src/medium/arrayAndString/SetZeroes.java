@@ -1,12 +1,12 @@
-import java.util.stream.Stream;
+package medium.arrayAndString;
 
 /**
  * @Designation:
  * @Author: Ylz
- * @Date: 2019/4/16
+ * @Date: 2019/4/25
  * @Version: 1.0
  */
-public class D {
+public class SetZeroes {
 
     public void setZeroes(int[][] matrix) {
         int rows =matrix.length;
@@ -34,6 +34,4 @@ public class D {
 
 
     }
-
-
 }
