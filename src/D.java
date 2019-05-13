@@ -25,12 +25,14 @@ public class D {
             }
         }
 
-        for (int i = rows - 1; i >= 0; i--) {
-            for (int j = cols - 1; j >= 1; j--)
-                if (matrix[i][0] == 0 || matrix[0][j] == 0)
-                    matrix[i][j] = 0;
-            if (row) matrix[i][0] = 0;
-        }
+            for (int i = 0; i < rows; i++) {
+                for (int i1 = 1; i1 < cols; i1++) {
+                    if (matrix[i][0] == 0 || matrix[0][i1] == 0){
+                        matrix[i][i1] = 0;
+                    }
+                    if (row)matrix[i][0] =0;
+                }
+            }
 
 
     }
