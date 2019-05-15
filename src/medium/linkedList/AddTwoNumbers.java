@@ -7,12 +7,12 @@ package medium.linkedList;
  * @Version: 1.0
  */
 public class AddTwoNumbers {
-    public static class ListNode {
+    public  class ListNode {
         int val;
         ListNode next;
         ListNode(int x) { val = x; }
     }
-    public  static  ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+    public    ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode cur = new ListNode(0);
         ListNode res = cur;
         int k = 0;
