@@ -1,5 +1,3 @@
-package medium;
-
 /**
  * @Designation:
  * @Author: Ylz
@@ -7,4 +5,9 @@ package medium;
  * @Version: 1.0
  */
 public class d {
+    private int age = 10;
+
+    public int getAge() {
+        return age;
+    }
 }
