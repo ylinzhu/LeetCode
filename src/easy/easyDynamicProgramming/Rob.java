@@ -1,6 +1,4 @@
-package easyDynamicProgramming;
-
-import com.sun.org.apache.regexp.internal.RE;
+package easy.easyDynamicProgramming;
 
 /**
  * @Designation:

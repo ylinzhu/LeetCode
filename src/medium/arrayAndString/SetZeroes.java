@@ -1,12 +1,12 @@
-import java.util.stream.Stream;
+package medium.arrayAndString;
 
 /**
  * @Designation:
  * @Author: Ylz
- * @Date: 2019/4/16
+ * @Date: 2019/4/25
  * @Version: 1.0
  */
-public class D {
+public class SetZeroes {
 
     public void setZeroes(int[][] matrix) {
         int rows =matrix.length;
@@ -23,18 +23,15 @@ public class D {
                     matrix[i][0]=matrix[0][i1] = 0;
                 }
             }
-
-            for (int i1 = 0; i1 < rows; i1++) {
-                for (int i2 = 1; i2 < cols; i2++) {
-                    if (matrix[i][0] == 0 || matrix[0][i1] == 0){
-                        matrix[i][i1] = 0;
-                    }
-                    if (row)matrix[i][0] =0;
-                }
-            }
         }
 
+        for (int i = rows - 1; i >= 0; i--) {
+            for (int j = cols - 1; j >= 1; j--)
+                if (matrix[i][0] == 0 || matrix[0][j] == 0)
+                    matrix[i][j] = 0;
+            if (row) matrix[i][0] = 0;
+        }
+
+
     }
-
-
 }
