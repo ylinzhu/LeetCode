@@ -29,45 +29,40 @@ public class ZigzagLevelOrder {
         List<Integer> temp = null;
         if (root == null) return res;
         LinkedList<TreeNode> s1 = new LinkedList<>();
-       // Stack<TreeNode> s1 = new Stack<>();
         Stack<TreeNode> s2 = new Stack<>();
-      //  queue.push(root);
         s1.push(root);
-
         boolean flag = true;
-        while (!s1.isEmpty() || !s2.empty()) {
+        int index = 0;
 
+        while (!s1.isEmpty() || !s2.empty()) {
+            temp = new ArrayList<>(10);
             while (!s1.isEmpty()) {
-                temp = new ArrayList<>(10);
-                TreeNode node = s1.pop();
+                TreeNode node =  s1.pop() ;
                 temp.add(node.val);
                 s2.push(node);
             }
+            index++;
             res.add(temp);
             while (!s2.empty()) {
                 TreeNode node = s2.pop();
-                if (flag){
+                if (index % 2 == 0) {
                     if (node.left != null) {
                         s1.add(node.left);
                     }
                     if (node.right != null) {
                         s1.add(node.right);
                     }
-                }else {
+                }
+                else {
                     if (node.right != null) {
                         s1.add(node.right);
                     }
                     if (node.left != null) {
                         s1.add(node.left);
                     }
-
-
                 }
             }
-
         }
-
-
         return res;
     }
 
