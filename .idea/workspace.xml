@@ -8,15 +8,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2bff50fa-c5c2-41f5-ba14-c94bcaa57fc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/a.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/treeAndGraphs/InorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/medium/treeAndGraphs/ZigzagLevelOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/v.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/D.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/easyDynamicProgramming/Rob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/easy/easyDynamicProgramming/Rob.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/d.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/d.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/linkedList/GetIntersectionNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/linkedList/GetIntersectionNode.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -269,7 +261,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="add_unversioned_files" value="$PROJECT_DIR$/.idea/workspace.xml" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559043787453" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559092877205" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../tmxmall" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
@@ -398,7 +390,7 @@
       <workItem from="1557883651849" duration="16285000" />
       <workItem from="1558675614133" duration="583000" />
       <workItem from="1558920367715" duration="529000" />
-      <workItem from="1558955085650" duration="9578000" />
+      <workItem from="1558955085650" duration="10262000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1554256309373</created>
@@ -449,7 +441,14 @@
       <option name="project" value="LOCAL" />
       <updated>1557918301736</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="树">
+      <created>1559044439641</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1559044439641</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -485,7 +484,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="148779000" />
+    <option name="totallyTimeSpent" value="149463000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -585,7 +584,8 @@
     <MESSAGE value="longestPalindrome" />
     <MESSAGE value="addtwonumbers" />
     <MESSAGE value="链表" />
-    <option name="LAST_COMMIT_MESSAGE" value="链表" />
+    <MESSAGE value="树" />
+    <option name="LAST_COMMIT_MESSAGE" value="树" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
