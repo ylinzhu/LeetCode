@@ -26,8 +26,10 @@ public class Connect {
     }
 
     public Node connect(Node root) {
+        if(root == null || root.left == null){
+            return root;
+        }
         Node node = root;
-
         Stack<Node> s1 = new Stack<>();
         Stack<Node> s2 = new Stack<>();
         s1.push(root);
@@ -39,16 +41,16 @@ public class Connect {
                 s2.push(temp);
             }
 
-            while (!s2.empty()){
-                if (s2.size()>1){
 
-                }
+            while (!s2.empty()){
                 Node temp = s2.pop();
                 if (temp.left != null){
                   s1.push(temp.left);
                   s1.push(temp.right);
                 }
-
+                if (s2.size()>= 1){
+                    temp.next = s2.peek();
+                }
             }
         }
 
