@@ -31,7 +31,6 @@ public class ZigzagLevelOrder {
         LinkedList<TreeNode> s1 = new LinkedList<>();
         Stack<TreeNode> s2 = new Stack<>();
         s1.push(root);
-        boolean flag = true;
         int index = 0;
 
         while (!s1.isEmpty() || !s2.empty()) {
