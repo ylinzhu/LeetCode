@@ -36,11 +36,4 @@ public class KthSmallest {
         return root.val;
 
     }
-
-    public static void main(String[] args) {
-        TreeNode root = new TreeNode(3);
-        root.left= new TreeNode(1);
-        root.right= new TreeNode(4);
-        kthSmallest(root,1);
-    }
 }
