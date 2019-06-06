@@ -30,16 +30,16 @@ public class letterCombinations {
         }};
         char[] chars = digits.toCharArray();
         for (int i = 0; i < chars.length; i++) {
-            char[] chars1 = phone.get(chars[i]).toCharArray();
+            char[] chars1 = phone.get(String.valueOf(chars[i])).toCharArray();
             List<String> temp = res;
             res = new ArrayList<>(16);
             if (temp.size() == 0) {
-                for (char c : chars) {
+                for (char c : chars1) {
                     res.add(String.valueOf(c));
                 }
             } else {
                 for (String o : temp) {
-                    for (char c : chars) {
+                    for (char c : chars1) {
                         res.add(o+c);
                     }
                 }
@@ -51,13 +51,9 @@ public class letterCombinations {
     }
 
     public static void main(String[] args) {
-        String s = "23";
+        String s = "235";
         String k = "abcd";
-        System.out.println((byte) s.charAt(0));
-        System.out.println((byte) k.charAt(0));
-
-        System.out.println((byte) s.charAt(1));
-        System.out.println((byte) k.charAt(3));
+        System.out.println(new letterCombinations().letterCombinations(s));
     }
 
 }
