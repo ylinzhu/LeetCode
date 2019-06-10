@@ -50,10 +50,6 @@ public class letterCombinations {
         return res;
     }
 
-    public static void main(String[] args) {
-        String s = "235";
-        String k = "abcd";
-        System.out.println(new letterCombinations().letterCombinations(s));
-    }
+
 
 }
