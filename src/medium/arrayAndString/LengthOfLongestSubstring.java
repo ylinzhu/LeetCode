@@ -1,6 +1,6 @@
 package medium.arrayAndString;
 
-import org.junit.Test;
+
 
 import java.util.HashMap;
 import java.util.Map;
@@ -12,7 +12,7 @@ import java.util.Map;
  * @Version: 1.0
  */
 public class LengthOfLongestSubstring {
-    @Test
+
     public void test() {
         String strs = "alouzxilkaxkufsu";
         System.out.println(lengthOfLongestSubstring(strs));

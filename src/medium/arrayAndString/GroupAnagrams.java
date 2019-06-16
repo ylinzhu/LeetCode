@@ -1,6 +1,6 @@
 package medium.arrayAndString;
 
-import org.junit.Test;
+
 
 import java.util.*;
 
