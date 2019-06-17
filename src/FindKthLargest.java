@@ -1,5 +1,3 @@
-package medium.backtacking;
-
 import java.util.PriorityQueue;
 
 public class FindKthLargest {
