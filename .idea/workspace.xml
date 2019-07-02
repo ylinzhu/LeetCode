@@ -3,15 +3,15 @@
   <component name="AnalysisUIOptions">
     <option name="GROUP_BY_SEVERITY" value="true" />
   </component>
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/easy/easySortandSearch/Merge.java" line="22" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="2bff50fa-c5c2-41f5-ba14-c94bcaa57fc1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/FindKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/sortAndSearch/FindPeakElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/sortAndSearch/Merge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/medium/sortAndSearch/SearchRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/pdfToword.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/arrayAndString/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/arrayAndString/GroupAnagrams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/medium/arrayAndString/LengthOfLongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/arrayAndString/LengthOfLongestSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/d.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/medium/backtacking/FindKthLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/medium/sortAndSearch/FindKthLargest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -25,64 +25,61 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FindKthLargest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="860">
-              <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/PriorityQueue.class">
+        <entry file="file://$PROJECT_DIR$/src/medium/sortAndSearch/Merge.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="423">
-              <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/arrayAndString/GroupAnagrams.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="464">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/arrayAndString/LengthOfLongestSubstring.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="18" column="5" lean-forward="true" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+            <state relative-caret-position="233">
+              <caret line="39" column="19" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="39" selection-end-column="19" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#456#457#0" expanded="true" />
+                <element signature="e#508#509#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/treeAndGraphs/ZigzagLevelOrder.java">
+        <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1450">
-              <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#365#366#0" expanded="true" />
-                <element signature="e#396#397#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="198">
+              <caret line="1430" column="27" selection-start-line="1430" selection-start-column="27" selection-end-line="1430" selection-end-column="27" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/treeAndGraphs/Connect.java">
+        <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1131">
-              <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
+            <state relative-caret-position="288">
+              <caret line="78" column="7" lean-forward="true" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="718">
+              <caret line="205" column="37" lean-forward="true" selection-start-line="205" selection-start-column="37" selection-end-line="205" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Collection.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="290">
+              <caret line="160" column="12" selection-start-line="160" selection-start-column="12" selection-end-line="160" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/medium/sortAndSearch/FindKthLargest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -90,7 +87,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/treeAndGraphs/NumIslands.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="330">
               <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="18" selection-end-column="29" />
             </state>
           </provider>
@@ -99,7 +96,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/treeAndGraphs/InorderTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="330">
               <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -111,20 +108,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/medium/treeAndGraphs/BuildTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
+            <state relative-caret-position="330">
               <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/medium/backtacking/Permute.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1218">
-              <caret line="44" selection-start-line="44" selection-end-line="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -141,6 +126,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>find</find>
+      <find>temp</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -155,11 +141,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
-        <option value="$PROJECT_DIR$/src/easystring/IsAnagram.java" />
-        <option value="$PROJECT_DIR$/src/easystring/MyAtoi.java" />
-        <option value="$PROJECT_DIR$/src/easystring/StrStr.java" />
-        <option value="$PROJECT_DIR$/src/easystring/CountAndSay.java" />
         <option value="$PROJECT_DIR$/src/easystring/LongestCommonPrefix.java" />
         <option value="$PROJECT_DIR$/src/easyLinkedList/RemoveNthFromEnd.java" />
         <option value="$PROJECT_DIR$/src/easyLinkedList/MergeTwoLists.java" />
@@ -188,7 +169,6 @@
         <option value="$PROJECT_DIR$/src/medium/linkedList/GetIntersectionNode.java" />
         <option value="$PROJECT_DIR$/src/medium/d.java" />
         <option value="$PROJECT_DIR$/src/v.java" />
-        <option value="$PROJECT_DIR$/src/d.java" />
         <option value="$PROJECT_DIR$/src/a.java" />
         <option value="$PROJECT_DIR$/src/medium/treeAndGraphs/BuildTree.java" />
         <option value="$PROJECT_DIR$/src/medium/treeAndGraphs/ZigzagLevelOrder.java" />
@@ -206,6 +186,12 @@
         <option value="$PROJECT_DIR$/src/medium/arrayAndString/LengthOfLongestSubstring.java" />
         <option value="$PROJECT_DIR$/src/medium/arrayAndString/GroupAnagrams.java" />
         <option value="$PROJECT_DIR$/src/FindKthLargest.java" />
+        <option value="$PROJECT_DIR$/src/medium/sortAndSearch/FindKthLargest.java" />
+        <option value="$PROJECT_DIR$/src/medium/sortAndSearch/FindPeakElement.java" />
+        <option value="$PROJECT_DIR$/src/medium/sortAndSearch/SearchRange.java" />
+        <option value="$PROJECT_DIR$/src/test/pdfToword.java" />
+        <option value="$PROJECT_DIR$/src/d.java" />
+        <option value="$PROJECT_DIR$/src/medium/sortAndSearch/Merge.java" />
       </list>
     </option>
   </component>
@@ -216,10 +202,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1920" />
-    <option name="y" value="7" />
-    <option name="width" value="3840" />
-    <option name="height" value="2153" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -230,6 +216,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -253,14 +241,12 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="medium" type="462c0819:PsiDirectoryNode" />
-              <item name="arrayAndString" type="462c0819:PsiDirectoryNode" />
+              <item name="sortAndSearch" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -281,6 +267,9 @@
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="test" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\LeetCode\src" />
       <recent name="C:\LeetCode" />
@@ -298,20 +287,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FindKthLargest">
+  <component name="RunManager" selected="Application.Merge">
     <configuration name="FindKthLargest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FindKthLargest" />
+      <option name="MAIN_CLASS_NAME" value="medium.sortAndSearch.FindKthLargest" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GenerateParenthesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.backtacking.GenerateParenthesis" />
+    <configuration name="Merge" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.sortAndSearch.Merge" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="medium.backtacking.*" />
+          <option name="PATTERN" value="medium.sortAndSearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -319,12 +308,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permute" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.backtacking.Permute" />
+    <configuration name="SearchRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="medium.sortAndSearch.SearchRange" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="medium.backtacking.*" />
+          <option name="PATTERN" value="medium.sortAndSearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,25 +321,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Subsets" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.backtacking.Subsets" />
+    <configuration name="d" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="d" />
       <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="medium.backtacking.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WordSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="medium.backtacking.WordSearch" />
+    <configuration name="pdfToword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.pdfToword" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="medium.backtacking.*" />
+          <option name="PATTERN" value="test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -359,19 +342,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.GenerateParenthesis" />
-      <item itemvalue="Application.Permute" />
-      <item itemvalue="Application.Subsets" />
-      <item itemvalue="Application.WordSearch" />
       <item itemvalue="Application.FindKthLargest" />
+      <item itemvalue="Application.SearchRange" />
+      <item itemvalue="Application.pdfToword" />
+      <item itemvalue="Application.d" />
+      <item itemvalue="Application.Merge" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Merge" />
+        <item itemvalue="Application.d" />
+        <item itemvalue="Application.pdfToword" />
+        <item itemvalue="Application.SearchRange" />
         <item itemvalue="Application.FindKthLargest" />
-        <item itemvalue="Application.WordSearch" />
-        <item itemvalue="Application.Subsets" />
-        <item itemvalue="Application.Permute" />
-        <item itemvalue="Application.GenerateParenthesis" />
       </list>
     </recent_temporary>
   </component>
@@ -404,6 +387,12 @@
       <workItem from="1560221344666" duration="3636000" />
       <workItem from="1560226886937" duration="13865000" />
       <workItem from="1560689718889" duration="3715000" />
+      <workItem from="1560906689616" duration="5553000" />
+      <workItem from="1561020525568" duration="1381000" />
+      <workItem from="1561027786052" duration="17721000" />
+      <workItem from="1561547374889" duration="18000" />
+      <workItem from="1561547574113" duration="6291000" />
+      <workItem from="1561719411539" duration="12969000" />
     </task>
     <task id="LOCAL-00001" summary="s">
       <created>1554256309373</created>
@@ -503,7 +492,14 @@
       <option name="project" value="LOCAL" />
       <updated>1560689971807</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="subsets">
+      <created>1560736869333</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1560736869333</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -539,7 +535,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="255739000" />
+    <option name="totallyTimeSpent" value="309083000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -551,10 +547,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1920" y="7" width="3840" height="2153" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.12633263" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4988864" visible="true" weight="0.14872068" />
       <window_info id="Structure" order="1" sideWeight="0.5011136" side_tool="true" weight="0.1673774" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -563,17 +559,17 @@
       <window_info id="Capture Tool" order="6" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" sideWeight="0.49787235" weight="0.14644352" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.90618336" visible="true" weight="0.23460096" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" weight="0.46759507" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.90618336" weight="0.30957684" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49733475" visible="true" weight="0.46436524" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32628062" />
       <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32914925" />
       <window_info anchor="bottom" id="Run with VisualVM" order="8" />
       <window_info anchor="bottom" id="Debug with VisualVM" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49497488" weight="0.26280624" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49497488" weight="0.2594655" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.09381663" side_tool="true" weight="0.32565615" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49520257" weight="0.32619175" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49520257" weight="0.32516703" />
       <window_info anchor="bottom" id="Database Changes" order="13" />
       <window_info anchor="bottom" id="Version Control" order="14" sideWeight="0.9285714" weight="0.32182628" />
       <window_info anchor="bottom" id="Docker" order="15" show_stripe_button="false" />
@@ -693,10 +689,22 @@
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FindKthLargest.java</url>
+          <url>file://$PROJECT_DIR$/src/medium/sortAndSearch/FindKthLargest.java</url>
           <line>31</line>
           <properties />
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/sortAndSearch/SearchRange.java</url>
+          <line>24</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/medium/sortAndSearch/Merge.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="52" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -706,57 +714,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/AbstractList.java" />
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/javafx-src.zip!/com/sun/javafx/scene/control/skin/VirtualFlow.java" />
-    <entry file="file://$PROJECT_DIR$/src/easy/easyTrees/LevelOrder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="20" column="5" selection-start-line="12" selection-start-column="2" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/easyDynamicProgramming/ClimbStairs.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="389">
-          <caret line="24" column="18" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="24" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/easyDynamicProgramming/MaxProfit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/easystring/IsPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/easystring/MyAtoi.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1175">
-          <caret line="47" column="40" selection-start-line="47" selection-start-column="40" selection-end-line="47" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/easystring/Reverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="9" column="31" selection-start-line="9" selection-start-column="31" selection-end-line="9" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/easy/easystring/StrStr.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/easy/easySortandSearch/Merge.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
@@ -817,13 +774,6 @@
     <entry file="file://$PROJECT_DIR$/src/easyDynamicProgramming/Rob.java" />
     <entry file="file://$PROJECT_DIR$/src/v.java" />
     <entry file="file://$PROJECT_DIR$/src/a.java" />
-    <entry file="file://$PROJECT_DIR$/src/d.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="159">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_152/src.zip!/java/util/AbstractCollection.java" />
     <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_152/src.zip!/java/util/LinkedList.java" />
     <entry file="file://$PROJECT_DIR$/src/medium/linkedList/GetIntersectionNode.java">
@@ -836,7 +786,6 @@
     <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Vector.java" />
     <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/LinkedList.java" />
     <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Deque.java" />
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Queue.java" />
     <entry file="file://$PROJECT_DIR$/src/easy/easyTrees/IsSymmetric.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
@@ -844,19 +793,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Stack.java" />
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>
@@ -899,17 +840,9 @@
     </entry>
     <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/List.java" />
     <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/ArrayList.java" />
-    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java" />
-    <entry file="file://$PROJECT_DIR$/src/medium/backtacking/WordSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
-          <caret line="36" column="37" selection-start-line="36" selection-start-column="37" selection-end-line="36" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/treeAndGraphs/ZigzagLevelOrder.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1450">
+        <state relative-caret-position="1250">
           <caret line="55" column="45" selection-start-line="55" selection-start-column="45" selection-end-line="55" selection-end-column="45" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -921,32 +854,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/medium/treeAndGraphs/Connect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1131">
+        <state relative-caret-position="975">
           <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/treeAndGraphs/NumIslands.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="18" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/treeAndGraphs/InorderTraversal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/medium/treeAndGraphs/BuildTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -977,17 +886,149 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/FindKthLargest.java">
+    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/PriorityQueue.class" />
+    <entry file="file://$PROJECT_DIR$/src/medium/sortAndSearch/SortColors.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="860">
-          <caret line="35" column="47" selection-start-line="35" selection-start-column="47" selection-end-line="35" selection-end-column="47" />
+        <state relative-caret-position="350">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
         </state>
       </provider>
     </entry>
-    <entry file="jar:///usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar!/java/util/PriorityQueue.class">
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/TreeMap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="31" column="11" selection-start-line="31" selection-start-column="11" selection-end-line="31" selection-end-column="11" />
+        <state relative-caret-position="3000">
+          <caret line="146" column="11" selection-start-line="146" selection-start-column="11" selection-end-line="146" selection-end-column="11" />
+          <folding>
+            <element signature="e#5767#5768#0" expanded="true" />
+            <element signature="e#5800#5801#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/backtacking/WordSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="22" column="1" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/sortAndSearch/FindPeakElement.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/d.java" />
+    <entry file="file://$PROJECT_DIR$/src/medium/sortAndSearch/SearchRange.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="836">
+          <caret line="38" selection-start-line="38" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/pdfToword.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/io/File.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27852">
+          <caret line="1307" column="19" selection-start-line="1307" selection-start-column="19" selection-end-line="1307" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="7" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/sortAndSearch/TopKFrequent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="54" selection-start-line="17" selection-start-column="54" selection-end-line="17" selection-end-column="54" />
+          <folding>
+            <element signature="e#489#490#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/sortAndSearch/FindKthLargest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/treeAndGraphs/NumIslands.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="18" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/treeAndGraphs/InorderTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="23" selection-start-line="17" selection-start-column="23" selection-end-line="17" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/treeAndGraphs/BuildTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="17" column="9" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Collection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="160" column="12" selection-start-line="160" selection-start-column="12" selection-end-line="160" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="205" column="37" lean-forward="true" selection-start-line="205" selection-start-column="37" selection-end-line="205" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="78" column="7" lean-forward="true" selection-start-line="78" selection-start-column="7" selection-end-line="78" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../Program Files/Java/jdk1.8.0_201/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="1430" column="27" selection-start-line="1430" selection-start-column="27" selection-end-line="1430" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/medium/sortAndSearch/Merge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="39" column="19" lean-forward="true" selection-start-line="15" selection-start-column="7" selection-end-line="39" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#456#457#0" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
