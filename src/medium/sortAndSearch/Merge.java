@@ -11,6 +11,7 @@ import java.util.Comparator;
  */
 public class Merge {
 
+    //todo 这题要再看一下
     public static int[][] merge(int[][] intervals) {
         if(intervals.length<2)
             return intervals;
