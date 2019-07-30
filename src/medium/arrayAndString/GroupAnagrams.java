@@ -34,4 +34,8 @@ public class GroupAnagrams {
         }
         return new ArrayList<>(map.values());
     }
+
+    public static void main(String[] args) {
+
+    }
 }
