@@ -8,12 +8,12 @@ package medium.math;
  */
 public class Happy {
 
-    private int calculate( int n){
-        int k = 0 ;
-        while (n != 0){
-          int temp = n%10;
+    private int calculate(int n) {
+        int k = 0;
+        while (n != 0) {
+          int temp = n % 10;
           k += temp * temp;
-          n/=10;
+          n /= 10;
 
         }
         return k;
@@ -21,7 +21,7 @@ public class Happy {
     }
 
     public boolean isHappy(int n) {
-        if (n == 1){
+        if (n == 1) {
             return true;
         }
         if (n < 0 || n == 4)
