@@ -1,4 +1,4 @@
-package hard;
+package hard.arrayAndString;
 
 import java.util.ArrayList;
 import java.util.List;

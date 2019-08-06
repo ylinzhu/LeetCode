@@ -1,4 +1,4 @@
-package hard;
+package hard.arrayAndString;
 
 /**
  * @Designation:
