@@ -10,8 +10,6 @@ public class LargestNumber {
 
     public String largestNumber(int[] nums) {
         String str = null;
-        
-
         return str;
     }
 }
